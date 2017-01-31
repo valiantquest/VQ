@@ -1,0 +1,1 @@
+scr_text("When all seemed lost an unknown hero appeared with a gleaming sword and the heart of a lion.",1,100,940)

@@ -1,0 +1,1 @@
+scr_text("Yah... a literal heart of a lion. Weird.",1,100,940)

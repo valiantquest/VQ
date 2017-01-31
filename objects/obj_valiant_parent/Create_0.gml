@@ -1,0 +1,1 @@
+global.in_movement=0

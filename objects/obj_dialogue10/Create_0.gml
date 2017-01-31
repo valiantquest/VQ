@@ -1,0 +1,1 @@
+scr_text("With strength, skill, and courage, he beat the dragon, sending it into a deep slumber.",1,100,940)

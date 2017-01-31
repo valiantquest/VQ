@@ -1,0 +1,1 @@
+scr_text("Though victorious, the hero knew he could not rest For one day, the dragon would wake and resume it's reign of terror.",1,100,940)

@@ -1,0 +1,1 @@
+scr_text("evil forces swept across the land.",1,100,940)

@@ -1,0 +1,1 @@
+///draw_text(x+100,y+200,"in movement: " + string(global.in_movement))

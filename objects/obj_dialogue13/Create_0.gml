@@ -1,0 +1,1 @@
+scr_text("Before he died, the hero foretold of a prophecy that another as brave as he would rise from obscurity to defeat the dragon once and for all and win the heart of a Princess.",1,100,900)
